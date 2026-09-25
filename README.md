@@ -69,7 +69,9 @@ Real-Time-Human-Detection-Counting/
 │   ├── Task2_Literature_Survey.md
 │   ├── Task3_System_Architecture.md
 │   ├── Task4_Implementation_Part1.md
-│   └── Task5_Implementation_Part2.md
+│   ├── Task5_Implementation_Part2.md
+│   ├── Task6_Implementation_Part3.md
+│   └── Task7_Implementation_Part4.md
 ├── frozen_inference_graph.pb    # Pre-trained model weights
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
@@ -101,3 +103,5 @@ All  task documents are formatted and located in the `docs/` folder:
 - [Task 3: System Architecture](docs/Task3_System_Architecture.md)
 - [Task 4: Implementation Part 1 (25%)](docs/Task4_Implementation_Part1.md)
 - [Task 5: Implementation Part 2 (50%)](docs/Task5_Implementation_Part2.md)
+- [Task 6: Implementation Part 3 (75%)](docs/Task6_Implementation_Part3.md)
+- [Task 7: Implementation Part 4 (100% Final Report)](docs/Task7_Implementation_Part4.md)
